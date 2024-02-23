@@ -10,14 +10,16 @@
     "fecha_caducidad": "dd/mm/aaaa",
     "marca": "Marca",
     "es_nuevo": false,
-    "historial_busqueda": []
+    "historial_busqueda": [],
+    "puntuacion_producto": 3
   },
   "cliente_empresa": {
     "id_cliente": "id del cliente",
     "nombre": "Nombre del cliente",
     "calificacion": "Calificacion del cliente",
     "verificado": false,
-    "lista_productos": [{}, {}, {}]
+    "lista_productos": [{}, {}, {}],
+    "puntuacion_empresa": 3
   },
   "busqueda": {
     "busqueda": "Producto que se está buscando",
