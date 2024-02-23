@@ -1,0 +1,21 @@
+{
+  "producto": {
+    "id": "id del producto",
+    "nombre": "producto de ejemplo",
+    "precio": 0,
+    "descripcion": "Una descripción del producto",
+    "categoria": "categoria del producto",
+    "cantidad": 0,
+    "fecha_publicacion": "dd/mm/aaaa",
+    "fecha_caducidad": "dd/mm/aaaa",
+    "marca": "Marca",
+    "es_nuevo": false
+  },
+  "cliente_empresa": {
+    "id": "id del cliente",
+    "nombre": "Nombre del cliente",
+    "calificacion": "Calificacion del cliente",
+    "verificado": false,
+    "lista_productos": [{}, {}, {}]
+  }
+}
