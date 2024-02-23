@@ -1,0 +1,7 @@
+# Descripción del proyecto para IA
+
+## Proyecto: Tienda online
+
+El proyecto consiste en una **_tienda online_** donde un cliente va a poder llegar a buscar uno o varios productos con diversas _categorías_ para explorar, y opciones de _filtrado_ que facilitarán la búsqueda deseada, cada producto se representa con descripciones detalladas e imágenes que ilustran con claridad las condiciones y detalles del producto, además de _reseñas_ de cliente para ayudar a tomar mejores decisiones al comprar un producto.
+
+El sistema tendrá _2 tipos de clientes_, los clientes _normales_ o naturales que van a tener la posibilidad de _buscar productos_, _filtrar_ la búsqueda mediante diferentes campos, _puntuar_ productos y las empresas que los venden, _añadir_ productos al carrito, _ver anuncios_ de nuevos productos publicados, _contactar_ a empresas a través de anuncios, _recibir_ sugerencias de publicaciones de productos, podrá ver cuales empresas están mejor puntuadas por otros usuarios, etc, y los clientes de _tipo empresa_ los cuales aparte de todo lo anterior podrá _publicar_ productos en su stock, ver un _historial de productos vendidos_, _contactar_ directamente con clientes que quieran establecer _relaciones comerciales_ con ellos si el cliente los contacta primero, _establecer_ métodos de pago para cada producto agregado, podrá tener _otros usuarios_ de tipo empresa como _socios comerciales_, podrá _reportar_ usuarios que hagan algo indebido dentro de la tienda, como estafas en la venta o maltratos a vendedores de las empresas, etc.
