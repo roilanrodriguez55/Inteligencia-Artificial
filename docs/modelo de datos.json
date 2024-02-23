@@ -1,6 +1,6 @@
 {
   "producto": {
-    "id": "id del producto",
+    "id_producto": "id del producto",
     "nombre": "producto de ejemplo",
     "precio": 0,
     "descripcion": "Una descripción del producto",
@@ -9,13 +9,20 @@
     "fecha_publicacion": "dd/mm/aaaa",
     "fecha_caducidad": "dd/mm/aaaa",
     "marca": "Marca",
-    "es_nuevo": false
+    "es_nuevo": false,
+    "historial_busqueda": []
   },
   "cliente_empresa": {
-    "id": "id del cliente",
+    "id_cliente": "id del cliente",
     "nombre": "Nombre del cliente",
     "calificacion": "Calificacion del cliente",
     "verificado": false,
     "lista_productos": [{}, {}, {}]
+  },
+  "busqueda": {
+    "busqueda": "Producto que se está buscando",
+    "keywords": ["palabra1", "palabra2", "palabra3"],
+    "id_cliente": "Aqui va el id del cliente que realizó la busqueda",
+    "categoria": "Esta es la categoria del producto que se está buscando"
   }
 }
