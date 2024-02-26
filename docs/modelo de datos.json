@@ -1,24 +1,25 @@
 {
-  "producto": {
-    "id_producto": "id del producto",
-    "nombre": "producto de ejemplo",
-    "precio": 0,
-    "descripcion": "Una descripción del producto",
-    "categoria": "categoria del producto",
-    "cantidad": 0,
-    "fecha_publicacion": "dd/mm/aaaa",
-    "fecha_caducidad": "dd/mm/aaaa",
-    "marca": "Marca",
-    "es_nuevo": false,
-    "historial_busqueda": [],
-    "puntuacion_producto": 3
-  },
   "cliente_empresa": {
     "id_cliente": "id del cliente",
     "nombre": "Nombre del cliente",
     "calificacion": "Calificacion del cliente",
     "verificado": false,
-    "lista_productos": [{}, {}, {}],
+    "lista_productos": [
+      {
+        "id_producto": "id del producto",
+        "nombre": "producto de ejemplo",
+        "precio": 0,
+        "descripcion": "Una descripción del producto",
+        "categoria": "categoria del producto",
+        "cantidad": 0,
+        "fecha_publicacion": "dd/mm/aaaa",
+        "fecha_caducidad": "dd/mm/aaaa",
+        "marca": "Marca",
+        "es_nuevo": false,
+        "historial_busqueda": [],
+        "puntuacion_producto": 3
+      }
+    ],
     "puntuacion_empresa": 3
   },
   "busqueda": {
